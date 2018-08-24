@@ -8,7 +8,7 @@
     "start": "node server.js",
     "dev": "react-scripts start"
   },
-  "author": "",
+  "author": "liulu",
   "license": "ISC",
   "dependencies": {
     "create-react-app": "^1.5.2",
