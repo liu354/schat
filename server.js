@@ -1,6 +1,6 @@
 var express = require('express'), //引入express模块
   app = express(),
-  port=8010,
+  port=8020,
   server = require('http').createServer(app),
   io = require('socket.io').listen(server),
   users = [];
